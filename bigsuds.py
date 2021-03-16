@@ -39,7 +39,7 @@ from suds import WebFault, TypeNotFound, MethodNotFound as _MethodNotFound
 
 import six
 
-__version__ = '1.0.6'
+__version__ = '2.0.0'
 
 
 # We need to monkey-patch the Client's ObjectCache due to a suds bug:
